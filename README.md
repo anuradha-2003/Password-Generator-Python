@@ -10,6 +10,9 @@ It generates strong and secure passwords based on user input.
 - User can choose password length
 - Beginner-friendly Python project
 
+## Screenshot
+- ![Password Generator Output](output.png)
+
 ## 🛠️ Technologies Used
 - Python 3
 - Random module
@@ -24,5 +27,6 @@ It generates strong and secure passwords based on user input.
 
 ## 🎓 Internship Project
 Developed as part of Python Programming Internship at Oasis Infobyte.
+
 
 
